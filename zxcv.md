@@ -6,7 +6,3 @@
 03-Nov-17  12:30 PM    <DIR>          .
 03-Nov-17  12:30 PM    <DIR>          ..
 03-Nov-17  12:27 PM               378 hello.md
-03-Nov-17  12:27 PM                 7 README.md
-03-Nov-17  12:30 PM                 0 zxcv.md
-               3 File(s)            385 bytes
-               2 Dir(s)  215,284,486,144 bytes free
